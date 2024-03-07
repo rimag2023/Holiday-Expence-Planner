@@ -1,3 +1,4 @@
+#  Project. Holiday Expense Planner.
 #  Programming with User Defined Functions.
 
 Welcome to the Holiday Expense Planner project! This tool helps you to plan and track your expenses for your holiday trips.
