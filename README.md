@@ -22,14 +22,14 @@ What the project does?
 ## Installation
 1. Clone the repository:
 bash
-git clone https://github.com/rimag2023/holiday-expence-planner.git
+git clone https://github.com/rimag2023/Holiday-Expence-Planner.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 bash
 cd holiday-expence-planner 
-3. Install dependencies:
+4. Install dependencies:
 pip install -r requirements.txt (optional)
-4. Run the application: 'holiday2.py'
+5. Run the application: 'holiday2.py'
 
 ## Database 
 Python 3.12.2
